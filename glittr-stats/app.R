@@ -36,7 +36,7 @@ glittr_cols <- c(
 ui <- fluidPage(
   
   # App title ----
-  titlePanel("Repos tagged per category"),
+  titlePanel("Repos tagged per category at Glittr.org"),
   sidebarLayout(
     
     sidebarPanel(width = 4,
